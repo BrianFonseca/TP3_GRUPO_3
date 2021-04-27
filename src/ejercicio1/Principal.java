@@ -56,7 +56,7 @@ public class Principal {
 			for(Persona p : listaOrdenada) {
 				System.out.println(p.toString());
 			}
-			
+			//Comentario para versionar, borrar despues
 			//listPersonas = new TreeSet<Persona>(listaOrdenada);
 			
 			Iterator<Persona> it = listPersonas.iterator();
